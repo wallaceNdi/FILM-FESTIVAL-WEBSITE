@@ -1,0 +1,111 @@
+/* Styles de base */
+      body {
+        background: url() no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+        background-color: #8d8d8e;
+      }
+      .navbar-brand{
+        font-size: 20px;
+        font-weight: 30px !important 
+        color: #967f67 !important 
+        font-weight: bold;
+        text-transform: uppercase;
+
+      }
+      .dropdown-menu{
+        background-color: #8d8d8e;
+      }
+      .navbar{
+        font-size: 20px;
+        text-align: : auto;
+        text-decoration-color: : #5531e2;
+        text-transform: uppercase;
+        background-color: #363830;
+      }
+      .jumbotron{
+        background-color: #d3d2d1;
+        padding-bottom: 0px!important
+        padding-top: 0px !important
+        border-bottom: 1px solid !important
+      }
+      .item img{
+        border-radius: 20px;
+      }
+      
+      
+      p{
+ 
+        font-size: 15px !important
+      }
+      #news1 p{background-color: #f7f4f2;
+        
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  border-radius: 20px;
+      }
+      
+      h3,h2{
+        font-weight: bold;
+        color: #586337
+        background-color: #8d9096;
+      }
+      h1{color: #586337}
+
+      #title{
+        font-weight: bold;
+        color: #586337
+        background-color: #8d9096 !important
+
+      }
+     .card-header:first-child {
+    border-radius: calc(0.25rem - 1px) calc(0.25rem - 1px) 0 0;
+}
+.text-white {
+    color: #fff !important;
+}
+.text-center {
+    text-align: center !important;
+}
+.bg-dark {
+    background-color: #343a40 !important;
+}
+.card-header {
+    padding: 0.75rem 1.25rem;
+    padding-top: 0.75rem;
+    padding-right: 1.25rem;
+    padding-bottom: 0.75rem;
+    padding-left: 1.25rem;
+    margin-bottom: 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgba(0, 0, 0, 0.125);
+}
+a {
+    color: #FACD21;
+    text-decoration: none;
+    background-color: transparent;
+    
+}
+footer{
+  text-align: center;
+  padding: 15px 15px;
+  background-color: #111111;
+  font-size: 20px;
+}
+
+ 
+
+      
+      
+      
+
+      /* Images */
+      img {
+        width: 100%;
+      }
